@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://www.flockly.ai/:path*",
+      "permanent": true
+    }
+  ]
+}
+
